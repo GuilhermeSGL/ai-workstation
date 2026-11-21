@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "basic-memory": {
+      "type": "stdio",
+      "command": "basic-memory",
+      "args": ["mcp"]
+    }
+  }
+}

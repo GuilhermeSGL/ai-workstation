@@ -1,0 +1,2 @@
+- [Assistente pessoal no PC](user-assistente-pessoal.md) — quer a IA organizando o PC e o dia; responder em PT-BR
+- [Economia e memória](feedback-economia-memoria.md) — lembrar sem repetir, respostas curtas, consultar as fontes antes de perguntar
